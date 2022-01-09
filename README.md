@@ -10,7 +10,7 @@ The dataset contains 37899 train and 10000 test samples, respectively. Each trai
  - description_fa
  - label
 
-Samples in the testset do not have labels since it was a contest. If you're looking for the labels, you should ask the organizing team since , they didn't provide the labels after the contest.
+Samples in the testset do not have labels since it was a contest. If you're looking for the labels, you should ask the organizing team since, they didn't provide the labels after the contest.
 
 ## Method
 A pretrained bert on persian corpus was used. The pretrained model was taken from [Hooshvarelab/ParsBERT](https://github.com/hooshvare/parsbert).
@@ -19,5 +19,6 @@ A pretrained bert on persian corpus was used. The pretrained model was taken fro
 I achieved 75.2 % test accuracy which ranked 10 amogst 125 valid submission. The highest score in the leaderboard was 76.3 %.
 
 
-Happy Coding! 
+Happy Coding!
+
 Taha.
